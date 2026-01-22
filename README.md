@@ -4,7 +4,7 @@ This repository contains extensions to the SHAC implementation of the paper [Acc
 Since our extensions are loosely related (fork) to the original repository, refer to their README.md for further information. \
 Our work can be found either on the repository or at [Open Review](https://openreview.net/forum?id=NvpDkj39P7&noteId=NvpDkj39P7).
 
-By Virgilio Strozzi and Timon Kick (2024).
+By Virgilio Strozzi and Timon Kick (2024) at ETH Zürich.
 
 # Abstact
 
